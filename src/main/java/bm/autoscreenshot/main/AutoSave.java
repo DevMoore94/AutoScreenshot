@@ -11,6 +11,8 @@ import java.util.Random;
 
 import javax.imageio.ImageIO;
 
+import bm.autoscreenshot.util.*; 
+
 public class AutoSave 
 {
 	
